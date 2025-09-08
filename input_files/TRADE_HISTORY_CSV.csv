@@ -1,0 +1,24 @@
+Date,Time,Name,Buy/Sell,Order,Exchange,Segment,Quantity/Lot,Trade Price,Trade Value,Status
+2025-08-26,09:45:26,Eveready Industries,SELL,DELIVERY,NSE,Equity,45,425.10,19129.50,Traded
+2025-08-26,09:15:37,Gujarat State Fertilizers & Chemicals,SELL,DELIVERY,NSE,Equity,157,206.40,32404.80,Traded
+2025-08-25,15:07:15,Eveready Industries,BUY,DELIVERY,NSE,Equity,45,441.95,19887.70,Traded
+2025-08-25,09:44:41,Gujarat State Fertilizers & Chemicals,BUY,DELIVERY,NSE,Equity,157,212.85,33417.56,Traded
+2025-08-22,10:24:29,Crizac,SELL,DELIVERY,NSE,Equity,32,356.15,11396.80,Traded
+2025-08-21,12:00:14,India Cements,SELL,DELIVERY,NSE,Equity,54,391.55,21143.70,Traded
+2025-08-21,09:55:17,Coffee Day Enterprises,SELL,DELIVERY,NSE,Equity,160,46.67,7467.20,Traded
+2025-08-21,09:35:43,Coffee Day Enterprises,SELL,DELIVERY,NSE,Equity,325,41.92,13624.00,Traded
+2025-08-20,14:20:00,Crizac,BUY,DELIVERY,NSE,Equity,65,330.00,21450.00,Traded
+2025-08-20,09:25:50,India Cements,BUY,DELIVERY,NSE,Equity,108,373.03,40287.55,Traded
+2025-08-18,11:20:20,Coffee Day Enterprises,BUY,DELIVERY,NSE,Equity,649,38.55,25018.95,Traded
+2025-08-07,09:16:10,Fertilisers & Chemical Travancore,SELL,DELIVERY,NSE,Equity,50,925.10,46255.00,Traded
+2025-08-06,09:20:26,Amber Enterprises,SELL,DELIVERY,NSE,Equity,5,7653.00,38265.00,Traded
+2025-08-05,15:13:06,Fertilisers & Chemical Travancore,BUY,DELIVERY,NSE,Equity,50,969.65,48482.70,Traded
+2025-08-04,15:29:48,Amber Enterprises,BUY,DELIVERY,NSE,Equity,5,7954.00,39770.00,Traded
+2025-07-30,14:08:55,Privi Speciality Chemicals,SELL,DELIVERY,NSE,Equity,9,2573.32,23159.90,Traded
+2025-07-30,14:08:46,Allied Blenders & Distillers,SELL,DELIVERY,NSE,Equity,45,492.44,22160.00,Traded
+2025-07-30,10:01:26,Privi Speciality Chemicals,SELL,DELIVERY,NSE,Equity,8,2629.20,21033.60,Traded
+2025-07-30,09:22:53,Allied Blenders & Distillers,SELL,DELIVERY,NSE,Equity,44,508.75,22385.00,Traded
+2025-07-29,10:55:56,Allied Blenders & Distillers,BUY,DELIVERY,NSE,Equity,89,475.64,42332.15,Traded
+2025-07-28,09:47:12,Privi Speciality Chemicals,BUY,DELIVERY,NSE,Equity,17,2481.85,42191.40,Traded
+2025-07-25,10:49:46,Hitachi Energy,SELL,DELIVERY,NSE,Equity,4,19260.00,77040.00,Traded
+2025-07-17,14:39:34,Hitachi Energy,BUY,DELIVERY,NSE,Equity,4,19250.00,77000.00,Traded
